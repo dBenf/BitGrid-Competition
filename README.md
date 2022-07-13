@@ -7,3 +7,5 @@ Scientists have determined that a known species of bird should be divided into 3
 Using certain genetic traits and location data, can you predict the species of bird that has been observed?
 
 This is a beginner-level practice competition and your goal is to predict the bird species (A, B, or C) based on attributes or location.
+
+With my solution I obtain the **third** place of the competition.
